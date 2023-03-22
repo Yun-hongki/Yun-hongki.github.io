@@ -164,13 +164,13 @@ h1 {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 3rem;
 }
 
 .content {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     position: relative;
+    margin: 3rem;
 }
 
 .caption {
