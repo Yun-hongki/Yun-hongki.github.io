@@ -47,6 +47,7 @@ table {
 /* 프로필 */
 .navbar {
     position: relative;
+    z-index: 100;
 }
 
 #yunstagram {
